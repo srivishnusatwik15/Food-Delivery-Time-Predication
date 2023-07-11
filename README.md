@@ -7,7 +7,7 @@ This project aims to predict the delivery time for food orders based on various 
 To get started with this project, you can follow these steps:
 
 1. Clone the repository: `git clone <repository_url>`
-2. Install the required dependencies: `pip install numpy pandas matplotlib seaborn plotly scikit-learn xgboost`
+2. Install the required dependencies: `pip install numpy pandas matplotlib seaborn plotly scikit-learn `
 3. Run the code in a Python environment: `python food_delivery_analysis.py`
 
 ## Description
