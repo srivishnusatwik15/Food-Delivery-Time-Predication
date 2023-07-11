@@ -41,7 +41,7 @@ The analysis is performed using Python and several data analysis libraries, incl
 ### Model Training and Evaluation
 
 - The dataset is split into training and testing sets using train_test_split.
-- Linear Regression, Decision Tree Regressor, and XGBoost Regressor models are trained and evaluated.
+- Linear Regression and Decision Tree Regressor models are trained and evaluated.
 - Predictions are made on the test set, and evaluation metrics such as RMSE, R-squared, and MSE are calculated for each model.
 
 ## Results
